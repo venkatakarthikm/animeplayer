@@ -1,0 +1,64 @@
+{
+  "animeList": [
+    {
+      "id": 1,
+      "title": "Demon Slayer",
+      "description": "A young boy becomes a demon slayer after his family is slaughtered and his sister turned into a demon.",
+      "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop",
+      "rating": 4.8,
+      "type": "series",
+      "genres": ["Action", "Fantasy", "Drama"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "Cruelty",
+              "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&auto=format&fit=crop",
+              "duration": "24:30"
+            },
+            {
+              "episodeNumber": 2,
+              "title": "Trainer Sakonji Urokodaki",
+              "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&auto=format&fit=crop",
+              "duration": "23:45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Attack on Titan",
+      "description": "In a world where humanity lives inside cities surrounded by enormous walls due to the Titans, giant humanoid creatures who devour humans seemingly without reason.",
+      "image": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=800&auto=format&fit=crop",
+      "rating": 4.9,
+      "type": "series",
+      "genres": ["Action", "Drama", "Fantasy"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "episodeNumber": 1,
+              "title": "To You, 2000 Years From Now",
+              "thumbnail": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=400&auto=format&fit=crop",
+              "duration": "24:15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Your Name",
+      "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+      "image": "https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?w=800&auto=format&fit=crop",
+      "rating": 4.9,
+      "type": "movie",
+      "genres": ["Romance", "Fantasy", "Drama"],
+      "duration": "1:46:00"
+    }
+  ]
+}
